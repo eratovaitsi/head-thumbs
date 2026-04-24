@@ -1,0 +1,114 @@
+ pip install pdf2image pytesseract pandas openpyxl pillow
+ pip3 install pdf2image pytesseract pandas openpyxl pillow
+ python3 -m pip install pdf2image pytesseract pandas openpyxl pillow
+/Applications/Python\ 3.14/Install\ Certificates.command ; exit;
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_00040.pdf --output results
+brew install tesseract tesseract-lang poppler
+brew install tesseract tesseract-lang poppler
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install tesseract tesseract-lang poppler
+    echo >> /Users/eratovaitsi/.zprofile\
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"' >> /Users/eratovaitsi/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv zsh)"
+brew help 
+brew install tesseract tesseract-lang poppler
+brew install tesseract tesseract-lang poppler
+brew list | grep -E "tesseract|poppler"
+brew install
+brew install tesseract tesseract-lang poppler
+python --version
+python --version
+python3 --version
+pip3 install pdf2image pytesseract pandas openpyxl pillow
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_0004 copy0.pdf --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004 copy0".pdf --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004 copy".pdf --output results
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_0004 copy.pdf --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004 copy".pdf --output results
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_0004_1.pdf --output results
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_0004_1.jpg --output results
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_0004_1.pdf
+brew info poppler
+which pdfinfo
+find /opt/homebrew -name "pdfinfo" 2>/dev/null
+find /opt/homebrew -name "pdfinfo" 2>/dev/null
+brew install poppler
+brew list poppler
+brew reinstall poppler
+find /opt/homebrew -name "pdfinfo" 2>/dev/null\
+find /usr/local -name "pdfinfo" 2>/dev/null
+find /opt/homebrew -name "pdfinfo" 2>/dev/null
+find /usr/local -name "pdfinfo" 2>/dev/null
+brew --prefix poppler
+uname -m
+find / -name "pdfinfo" 2>/dev/null
+find / -name "pdfinfo" 2>/dev/null
+ls /opt/homebrew/opt/poppler/bin
+brew uninstall poppler\
+brew install poppler\
+brew link poppler
+ls /opt/homebrew/opt/poppler/bin
+pip3 install pymupdf pytesseract pandas openpyxl pillow
+/Users/eratovaitsi/Desktop/hah/.venv/bin/python -m pip3 install pymupdf pytesseract pandas openpyxl pillow
+Collecting pymupdf\
+  Downloading pymupdf-1.27.2.2-cp310-abi3-macosx_11_0_arm64.whl.metadata (3.4 kB)\
+Requirement already satisfied: pytesseract in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (0.3.13)\
+Requirement already satisfied: pandas in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (3.0.2)\
+Requirement already satisfied: openpyxl in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (3.1.5)\
+Requirement already satisfied: pillow in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (12.2.0)\
+Requirement already satisfied: packaging>=21.3 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from pytesseract) (26.1)\
+Requirement already satisfied: numpy>=2.3.3 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from pandas) (2.4.4)\
+Requirement already satisfied: python-dateutil>=2.8.2 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from pandas) (2.9.0.post0)\
+Requirement already satisfied: et-xmlfile in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from openpyxl) (2.0.0)\
+Requirement already satisfied: six>=1.5 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)\
+Downloading pymupdf-1.27.2.2-cp310-abi3-macosx_11_0_arm64.whl (23.3 MB)\
+   âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´âƒ´ 23.3/23.3 MB 33.2 MB/s  0:00:00\
+Installing collected packages: pymupdf\
+Successfully installed pymupdf-1.27.2.2\
+eratovaitsi@Eratos-MacBook-Air hah % /Users/eratovaitsi/Desktop/hah/.venv/bin/python -m pip3 install pymupdf\
+ pytesseract pandas openpyxl pillow\
+/Users/eratovaitsi/Desktop/hah/.venv/bin/python: No module named pip
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+brew install tesseract-lang
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+pip install pandas pymupdf pytesseract openpyxl pillow
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+brew install tesseract
+ sudo rm -rf /Library/Developer/CommandLineTools\
+xcode-select --install
+import pytesseract\
+\
+pytesseract.pytesseract.tesseract_cmd = "/opt/local/bin/tesseract"
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+port version
+sudo port install tesseract
+tesseract-eng tesseract-ndl
+tesseract-ndl
+sudo port install tesseract-eng sudo port install tesseract-ndl
+import pytesseract\
+\
+pytesseract.pytesseract.tesseract_cmd = "/opt/local/bin/tesseract"
+import pytesseract
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+pip install paddleocr paddlepaddle
+pip install easyocr
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004_1.pdf" --output results
+ source /Users/eratovaitsi/Desktop/hah/.venv/bin/activate

@@ -1,0 +1,24 @@
+ pip install pdf2image pytesseract pandas openpyxl pillow
+ pip3 install pdf2image pytesseract pandas openpyxl pillow
+ python3 -m pip install pdf2image pytesseract pandas openpyxl pillow
+/Applications/Python\ 3.14/Install\ Certificates.command ; exit;
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_00040.pdf --output results
+brew install tesseract tesseract-lang poppler
+brew install tesseract tesseract-lang poppler
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install tesseract tesseract-lang poppler
+    echo >> /Users/eratovaitsi/.zprofile\
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"' >> /Users/eratovaitsi/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv zsh)"
+brew help 
+brew install tesseract tesseract-lang poppler
+brew install tesseract tesseract-lang poppler
+brew list | grep -E "tesseract|poppler"
+brew install
+brew install tesseract tesseract-lang poppler
+python --version
+python --version
+python3 --version
+pip3 install pdf2image pytesseract pandas openpyxl pillow
+python3 census_parser.py NL-HaNA_1.11.06.08_3811_0004 copy0.pdf --output results
+python3 census_parser.py "NL-HaNA_1.11.06.08_3811_0004 copy0".pdf --output results
