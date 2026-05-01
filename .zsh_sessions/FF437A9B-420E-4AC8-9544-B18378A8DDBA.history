@@ -1,0 +1,4 @@
+ pip install pdf2image pytesseract pandas openpyxl pillow
+ pip3 install pdf2image pytesseract pandas openpyxl pillow
+ python3 -m pip install pdf2image pytesseract pandas openpyxl pillow
+/Applications/Python\ 3.14/Install\ Certificates.command ; exit;
